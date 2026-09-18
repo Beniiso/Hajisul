@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2600&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=BENI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=65&lines=BENI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=700&color=888888&center=true&vCenter=true&width=700&lines=AI+%2F+Product+Building+%2F+Web" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="520"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=700&color=888888&center=true&vCenter=true&width=700&height=35&lines=AI+%2F+PRODUCT+BUILDING+%2F+WEB" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=650&lines=BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+SHIP" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1600&pause=500&color=FFFFFF&center=true&vCenter=true&width=650&height=35&lines=BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+SHIP" />
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## `building things for the web`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=800&color=AAAAAA&center=true&vCenter=true&width=700&lines=Started+with+web.;Now+I'm+exploring+AI+%2B+products.;Learning+by+building+real+things." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2400&pause=900&color=AAAAAA&center=true&vCenter=true&width=750&height=40&lines=Started+with+web.;Now+building+with+AI.;Learning+by+shipping+real+products." />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind,git,github,figma,vscode&theme=dark" />
 
 </div>
 
@@ -38,7 +38,7 @@
 
 ### `CURRENTLY`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Web+Development+%E2%9C%93;JavaScript+%E2%9C%93;Python+%E2%9C%93;Vibe+Coding+%E2%9C%93;AI+%E2%86%92;Machine+Learning+%E2%86%92;AI+Engineering+%E2%86%92" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1900&pause=600&color=FFFFFF&center=true&vCenter=true&width=720&height=40&lines=Python+%E2%9C%93;Web+Development+%E2%9C%93;Vibe+Coding+%E2%9C%93;AI+%E2%86%92;Machine+Learning+%E2%86%92;AI+Engineering+%E2%86%92" />
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,numpy&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,numpy,pytorch&theme=dark" />
 
 </div>
 
@@ -60,13 +60,13 @@
 
 <div align="center">
 
-### `GITHUB`
+### `GITHUB ACTIVITY`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hajisul&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hajisul&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&hide_title=true" width="100%"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hajisul&theme=black-ice&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hajisul&theme=black-ice&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=666666" />
 
 </div>
 
@@ -74,10 +74,28 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+### `CONTRIBUTION FLOW`
 
-<br><br>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=777777&center=true&vCenter=true&width=500&lines=keep+building.;keep+learning.;ship+something+real." />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hajisul&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&rank_icon=github" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajisul&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=100&section=footer" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=1000&color=777777&center=true&vCenter=true&width=550&height=30&lines=keep+building.;keep+learning.;ship+something+real." />
 
 </div>
