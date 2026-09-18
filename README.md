@@ -1,34 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=HAJISUL" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2600&pause=1400&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=HAJISUL" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=777777&center=true&vCenter=true&width=800&height=40&lines=WEB+%E2%80%A2+VIBE+CODING+%E2%80%A2+AI;Building+today.+Engineering+tomorrow." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1000&color=777777&center=true&vCenter=true&width=700&height=40&lines=Web+%E2%86%92+Code+%E2%86%92+AI;Building+%26+learning+towards+AI+Engineering" />
+<br><br>
 
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 
-<br>
+<br><br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="80%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=500&color=AAAAAA&center=true&vCenter=true&width=650&height=30&lines=DESIGN+%E2%86%92+CODE+%E2%86%92+SYSTEMS+%E2%86%92+AI" />
 
 </div>
 
 <br>
 
-## `01` — ABOUT
+## `01` / CURRENTLY
 
-I build for the web, experiment with code, and I'm gradually moving deeper into AI.
+I started with **web design** and building real products with **WordPress, Elementor and plugins**.
 
-Currently working with **WordPress, Elementor, JavaScript, Tailwind CSS and Vibe Coding** while learning **Python, Machine Learning and AI**.
+Now I'm going deeper into **JavaScript, Python and AI** through Vibe Coding and hands-on projects.
 
-**Long-term direction → AI Engineering**
+**Direction → AI Engineering**
 
 <br>
-
-## `02` — TOOLKIT
 
 <div align="center">
 
@@ -40,23 +36,52 @@ Currently working with **WordPress, Elementor, JavaScript, Tailwind CSS and Vibe
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=700&color=666666&center=true&vCenter=true&width=600&height=30&lines=design+%E2%86%92+build+%E2%86%92+learn+%E2%86%92+repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=700&color=888888&center=true&vCenter=true&width=700&height=35&lines=learning+python;exploring+machine+learning;building+with+AI;becoming+an+AI+engineer" />
 
 </div>
 
 <br>
 
-## `03` — NOW
+## `02` / PATH
 
-```text
-WEB
-WordPress / Elementor / Plugins
+<div align="center">
 
-CODE
-JavaScript / Tailwind / Vibe Coding
+**WEB**
 
-LEARNING
-Python / AI / Machine Learning
+`WordPress` · `Elementor` · `Plugins`
 
-NEXT
-AI Engineering
+↓
+
+**CODE**
+
+`JavaScript` · `Tailwind CSS` · `Vibe Coding`
+
+↓
+
+**AI**
+
+`Python` · `Machine Learning` · `AI`
+
+↓
+
+**AI ENGINEERING**
+
+</div>
+
+<br>
+
+## `03` / ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hajisul&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true" width="96%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3000&pause=900&color=555555&center=true&vCenter=true&width=550&height=25&lines=learn+%E2%86%92+build+%E2%86%92+ship+%E2%86%92+repeat" />
+
+</div>
