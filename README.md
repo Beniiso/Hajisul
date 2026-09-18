@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2600&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=HAJISUL" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2600&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=BENI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=700&color=888888&center=true&vCenter=true&width=700&lines=Frontend+%2F+Vibe+Coding+%2F+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=700&color=888888&center=true&vCenter=true&width=700&lines=AI+%2F+Product+Building+%2F+Web" />
 
 <br><br>
 
@@ -20,7 +20,7 @@
 
 ## `building things for the web`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=800&color=AAAAAA&center=true&vCenter=true&width=700&lines=Frontend+is+where+I+started.;Now+I'm+exploring+AI+%2B+product.;Learning+by+building+real+things." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=800&color=AAAAAA&center=true&vCenter=true&width=700&lines=Started+with+web.;Now+I'm+exploring+AI+%2B+products.;Learning+by+building+real+things." />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind,git,github,figma&theme=dark" />
 
 </div>
 
@@ -38,7 +38,7 @@
 
 ### `CURRENTLY`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+%E2%9C%93;JavaScript+%E2%9C%93;Tailwind+CSS+%E2%9C%93;Vibe+Coding+%E2%9C%93;Python+%E2%86%92;AI+%E2%86%92" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Web+Development+%E2%9C%93;JavaScript+%E2%9C%93;Python+%E2%9C%93;Vibe+Coding+%E2%9C%93;AI+%E2%86%92;Machine+Learning+%E2%86%92;AI+Engineering+%E2%86%92" />
 
 </div>
 
@@ -48,11 +48,11 @@
 
 ### `EXPLORING`
 
-`Python`   `AI`   `Machine Learning`   `Product Building`
+`Python`   `AI`   `Machine Learning`   `Product Building`
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,numpy&theme=dark" />
 
 </div>
 
