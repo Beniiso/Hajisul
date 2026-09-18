@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="460" />
 
 <br><br>
 
@@ -60,13 +60,9 @@
 
 <div align="center">
 
-### `GITHUB ACTIVITY`
+### `ACTIVITY`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hajisul&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&hide_title=true" width="100%"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hajisul&theme=black-ice&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=666666" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hajisul&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&hide_title=true" width="100%" />
 
 </div>
 
@@ -74,15 +70,7 @@
 
 <div align="center">
 
-### `CONTRIBUTION FLOW`
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
+### `GITHUB STATS`
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hajisul&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&rank_icon=github" />
 
@@ -94,7 +82,21 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=100&section=footer" width="100%"/>
+### `CONTRIBUTION SNAKE`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="./github-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=100&section=footer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=1000&color=777777&center=true&vCenter=true&width=550&height=30&lines=keep+building.;keep+learning.;ship+something+real." />
 
